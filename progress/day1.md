@@ -8,6 +8,8 @@
 - Verified successful package installation and upgrade logs
 - Confirmed VM is operational and ready for Nessus installation
 - Captured initial environment screenshots for documentation
+- Retrieved Ubuntu VM IP address (`10.211.55.7`) using the `ip a` command for Nessus targeting
+
 
 ---
 
