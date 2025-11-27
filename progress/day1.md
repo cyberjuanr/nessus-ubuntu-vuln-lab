@@ -56,10 +56,7 @@
 ---
 
 ## Next Steps
-- Download & install Nessus Essentials (Linux .deb package)
-- Start Nessus service and complete product activation
-- Configure initial scan targeting the Ubuntu VM IP
-- Capture Nessus installation and setup screenshots
-- Begin “Initial Vulnerability Scan” phase
+- Lab completed ☑️
+- Will start a new lab installing a vulnerable machine (apache 2.4.x) and fixing it
 
 
